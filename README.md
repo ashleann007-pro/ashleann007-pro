@@ -2,9 +2,9 @@
 
 ### Lead Data Analyst | Population Health | Healthcare Analytics | SQL | Power BI
 
-I'm a Lead Data Analyst at Henry Ford Health with almost 20 years of experience transforming healthcare data into actionable insights that support value-based care, population health, and executive decision-making.
+I'm a Lead Data Analyst at Henry Ford Health with nearly two decades of healthcare experience and over a decade specializing in healthcare analytics. I transform complex healthcare data into actionable insights that support value-based care, population health, and executive decision-making.
 
-My work focuses on designing scalable data models, developing interactive Power BI dashboards, and analyzing Medicare claims, EMR, and population health data to improve cost, quality, and utilization outcomes.
+My expertise includes designing scalable SQL data models, developing interactive Power BI dashboards, and analyzing Medicare claims, EMR, and population health data to improve cost, quality, and utilization outcomes.
 
 ---
 
@@ -23,17 +23,20 @@ My work focuses on designing scalable data models, developing interactive Power 
 
 ---
 
-## 🚀 Current Portfolio Projects
+## 🚀 Current GitHub Portfolio Projects
 
 ### Population Health Intelligence Dashboard
 
-An executive Power BI dashboard built using publicly available CMS Medicare datasets to analyze:
+An executive Power BI solution built using publicly available CMS Medicare datasets to demonstrate healthcare analytics techniques commonly used in population health, value-based care, and executive reporting.
 
-- Population Health
-- Cost & Utilization
-- Quality Performance
-- Geographic Variation
-- Executive KPIs
+**Key Features**
+
+- Executive KPI Dashboard
+- Population Health Analytics
+- Cost & Utilization Analysis
+- Quality Performance Metrics
+- Geographic Variation Analysis
+- Interactive Power BI Visualizations
 
 **Status:** 🚧 Currently in Development
 
@@ -41,7 +44,7 @@ An executive Power BI dashboard built using publicly available CMS Medicare data
 
 ## 🛠 Technology Stack
 
-**Analytics**
+### Analytics & BI
 
 - SQL
 - Power BI
@@ -49,23 +52,22 @@ An executive Power BI dashboard built using publicly available CMS Medicare data
 - Excel
 - Amazon Redshift
 
-**Healthcare**
+### Healthcare Analytics
 
 - Medicare Claims
 - Population Health
 - Value-Based Care
-- Risk Adjustment (HCC)
+- Risk Adjustment (HCC/RAF)
 - EMR Analytics
 
 ---
 
 ## 🌱 Currently Learning
 
-- Python for Healthcare Analytics
-- Advanced DAX Patterns
-- Healthcare Data Engineering
-- Fabric & Microsoft Fabric Analytics
-- AI-assisted Analytics Workflows
+- Python for Data Analytics
+- Advanced Power BI & DAX
+- Microsoft Fabric
+- AI-Assisted Analytics
 
 ---
 
@@ -75,4 +77,6 @@ An executive Power BI dashboard built using publicly available CMS Medicare data
 
 ---
 
-> *"Turning healthcare data into meaningful insights that improve patient outcomes and support better decision-making."*
+### 👋 Thanks for stopping by!
+
+Feel free to explore my projects, and don't hesitate to connect with me on LinkedIn if you'd like to discuss healthcare analytics, population health, SQL, Power BI, or value-based care.
